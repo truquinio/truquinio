@@ -16,6 +16,16 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=Adobe%20Illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20Photoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
+<table><tr><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)
+
+</td><td valign="top" width="50%">
+<div align="right">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  </div>
+</td></tr></table>  
+
+<br/>  
 <!-- ![](https://github-readme-stats.vercel.app/api?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=truquinio&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
