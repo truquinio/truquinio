@@ -17,12 +17,10 @@
 
 # 📊 GitHub Stats:
 <table><tr><td valign="top" width="50%">
-![](https://github-readme-stats.vercel.app/api?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=falsealign="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-<div align="right">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  </div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truquinio&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="right" style="width: 100%" /></div>
 </td></tr></table>  
 
 <br/>  
