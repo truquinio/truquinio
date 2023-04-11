@@ -1,3 +1,7 @@
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=C9D1D9&vCenter=true&width=1000&height=60&lines=Hello+there!+I'm+Fede...;I'm+a+FullStack+Web+Developer;If+you+have+any+questions%2C+feel+free+to+contact+me;with+the+links+below"/>
+</p>
+
 ## 💫 About Me:
 ![uk](https://i.ibb.co/G5dxCXJ/uk1.png) I'm a person who is in constant search of growth and learning. I have great adaptability and proactivity, both allow me to function naturally both in teamwork and individually. I seek to venture into all areas related to my experiences and that can enrich me and teach me new tools and techniques to be a better person and professional. I could summarize my profile as dynamic and decisive.
 <br>
