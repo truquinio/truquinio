@@ -29,11 +29,14 @@ Always learning, building, and improving through real-world projects.<br>
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 <br><br>
+
 ## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 <br><br>
+
 ## 🐍 Other Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
@@ -44,7 +47,22 @@ Always learning, building, and improving through real-world projects.<br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236F42C1.svg?style=flat&logo=phpmyadmin&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+<br><br>
+
+## 🤖 IA
+
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=flat&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%234D6BFE.svg?style=flat&logo=deepseek&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-%234285F4.svg?style=flat&logo=googlegemini&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-%236155FF.svg?style=flat&logo=qwen&logoColor=white)
 <br><br>
 
 ## 📊 GitHub Stats
