@@ -14,7 +14,7 @@ Always learning, building, and improving through real-world projects.<br>
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-trucco/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/317680)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/truquinio)  [![BuyMeACoffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00.svg?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/truquinio)  [![Cafecito](https://img.shields.io/badge/-Cafecito-88a3d0.svg?logo=coffee&logoColor=white)](https://cafecito.app/truquinio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-trucco/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/317680)
 <br><br>
 ## 🌐 Frontend
 
@@ -63,6 +63,7 @@ Always learning, building, and improving through real-world projects.<br>
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%234D6BFE.svg?style=flat&logo=deepseek&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-%234285F4.svg?style=flat&logo=googlegemini&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236155FF.svg?style=flat&logo=qwen&logoColor=white)
+
 <br><br>
 
 ## 📊 GitHub Stats
