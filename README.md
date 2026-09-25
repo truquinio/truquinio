@@ -1,17 +1,15 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&color=C9D1D9&vCenter=true&width=800&height=50&lines=Full+Stack+%7C+GIS-geoespacial+%7C+GovTech+%7C+Soporte+IT;Basado+en+Baix+Llobregat+(AMB)%2C+Barcelona"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=20&color=C9D1D9&vCenter=true&width=800&height=50&lines=Administracion+publica+%2F+GovTech;Full+Stack;Soporte+IT;GIS+%2F+geoespacial;Basado+en+Baix+Llobregat+(AMB)%2C+Barcelona"/>
 </p>
 
 ## 💫 About Me
 
-Desarrollador basado en el Baix Llobregat (AMB), Barcelona, que se mueve entre cuatro perfiles según el proyecto:
+Me muevo entre cuatro perfiles según el proyecto:
 
 - 🏛️ **Administración pública / GovTech** — herramientas de datos y geoespaciales para casos de uso municipal
 - 💻 **Full Stack** — Java/Spring, PHP y JavaScript/React de punta a punta
 - 🖥️ **Soporte IT** — infraestructura, redes y sistemas
-- 🗺️ **GIS / geoespacial** — PostGIS, Leaflet, MapLibre y análisis territorial con datos abiertos
-
-Siempre aprendiendo y construyendo con proyectos reales.
+- 🗺️ **GIS / geoespacial** — PostGIS, Leaflet, MapLibre y análisis territorial con datos abiertos, aplicado a proyectos reales como el gemelo digital de Castelldefels
 <br><br>
 
 ## 🗂️ Proyectos destacados
@@ -22,9 +20,17 @@ Siempre aprendiendo y construyendo con proyectos reales.
 - 📖 **[clonWiki](https://github.com/truquinio/clonWiki)** — Mini diccionario multi-idioma que consulta la API de Wiktionary en vivo (PHP + jQuery)
 <br><br>
 
-## 🌐 Socials
+## 🔗 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/317680)
+<br><br>
+
+## 🖥️ Soporte IT
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Redes%20%26%20TCP%2FIP-005571?style=flat&logo=cisco&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=windows&logoColor=white)
 <br><br>
 
 ## 🗺️ GIS / Geoespacial
