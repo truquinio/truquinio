@@ -1,21 +1,41 @@
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=C9D1D9&vCenter=true&width=1000&height=60&lines=Hello+there!+I'm+Fede...;I'm+a+FullStack+Web+Developer;If+you+have+any+questions%2C+feel+free+to+contact+me;with+the+links+below"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=20&color=C9D1D9&vCenter=true&width=800&height=50&lines=Full+Stack+%7C+GIS-geoespacial+%7C+GovTech+%7C+Soporte+IT;Basado+en+Baix+Llobregat+(AMB)%2C+Barcelona"/>
 </p>
 
 ## 💫 About Me
 
-Full-Stack Developer with a strong interest in frontend development and UI/UX design.
+Desarrollador basado en el Baix Llobregat (AMB), Barcelona, que se mueve entre cuatro perfiles según el proyecto:
 
-I enjoy building modern web applications, creating intuitive user experiences, and bringing ideas to life through clean and functional interfaces.
+- 🏛️ **Administración pública / GovTech** — herramientas de datos y geoespaciales para casos de uso municipal
+- 💻 **Full Stack** — Java/Spring, PHP y JavaScript/React de punta a punta
+- 🖥️ **Soporte IT** — infraestructura, redes y sistemas
+- 🗺️ **GIS / geoespacial** — PostGIS, Leaflet, MapLibre y análisis territorial con datos abiertos
 
-Always learning, building, and improving through real-world projects.<br>
+Siempre aprendiendo y construyendo con proyectos reales.
+<br><br>
 
-<br>
+## 🗂️ Proyectos destacados
+
+- 🗺️ **[sig-castelldefels](https://github.com/truquinio/sig-castelldefels)** — Análisis geoespacial de servicios urbanos con datos abiertos (OSM, PostGIS, Leaflet) · [demo](https://truquinio.github.io/sig-castelldefels/web/index.html)
+- 🏙️ **[sig-castelldefels-pro](https://github.com/truquinio/sig-castelldefels-pro)** — Gemelo digital urbano: mapa 2D/3D con MapLibre, catastro INSPIRE, ortofoto ICGC · [demo](https://truquinio.github.io/sig-castelldefels-pro/)
+- 🤖 **[Asistente-automatizado-de-Emails-con-IA](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)** — Clasificación y redacción de respuestas de email con IA (IMAP + GPT) · [demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/)
+- 📖 **[clonWiki](https://github.com/truquinio/clonWiki)** — Mini diccionario multi-idioma que consulta la API de Wiktionary en vivo (PHP + jQuery)
+<br><br>
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-trucco/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/317680)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/317680)
 <br><br>
+
+## 🗺️ GIS / Geoespacial
+
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat)
+![PostGIS](https://img.shields.io/badge/PostgreSQL%2FPostGIS-4169E1?style=flat&logo=postgresql&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+<br><br>
+
 ## 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -24,6 +44,7 @@ Always learning, building, and improving through real-world projects.<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
 <br><br>
+
 ## ⚙️ Backend
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
@@ -35,6 +56,7 @@ Always learning, building, and improving through real-world projects.<br>
 ## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 <br><br>
 
 ## 🐍 Other Languages
@@ -51,7 +73,6 @@ Always learning, building, and improving through real-world projects.<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236F42C1.svg?style=flat&logo=phpmyadmin&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 <br><br>
 
 ## 🤖 IA
@@ -61,9 +82,9 @@ Always learning, building, and improving through real-world projects.<br>
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=githubcopilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat&logo=googlegemini&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%234D6BFE.svg?style=flat&logo=deepseek&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-%234285F4.svg?style=flat&logo=googlegemini&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-%236155FF.svg?style=flat&logo=qwen&logoColor=white)
-
+![Codex](https://img.shields.io/badge/Codex-%23412991.svg?style=flat&logo=openai&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-%234285F4.svg?style=flat&logo=googlegemini&logoColor=white)
 <br><br>
 
 ## 📊 GitHub Stats
@@ -87,7 +108,7 @@ Always learning, building, and improving through real-world projects.<br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=truquinio&theme=github_dark"/>
 </td>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truquinio&theme=github_dark&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truquinio&theme=github_dark&utcOffset=2"/>
 </td>
 </tr>
 </table>
