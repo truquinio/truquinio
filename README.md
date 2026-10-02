@@ -34,24 +34,24 @@ No intento que todos mis proyectos parezcan iguales: algunos son productos compl
 
 ### 🖥️ [Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)
 
-Aplicación local para **diagnóstico, mantenimiento controlado y análisis de Windows 11**, con WPF, WebView2, Action Catalog tipado, elevación UAC puntual y flujos de rollback.
+Aplicación local para **diagnóstico, mantenimiento controlado y análisis de Windows 11**. El repositorio público es una Portfolio Edition; el núcleo completo continúa en privado.
 
 **C# · .NET 10 · WPF · WebView2 · TypeScript**
 
 [**Repositorio**](https://github.com/truquinio/win11-performance-control-center) ·
-[**Arquitectura**](https://github.com/truquinio/win11-performance-control-center/blob/main/docs/ARCHITECTURE.md)
+[**Arquitectura**](https://github.com/truquinio/win11-performance-control-center/blob/master/docs/ARCHITECTURE.md)
 
 ---
 
 ### 🏙️ [SIG Castelldefels · Digital Twin](https://github.com/truquinio/sig-castelldefels-pro)
 
-Prototipo geoespacial 2D/3D que integra fuentes públicas de **Catastro, ICGC, MUC, OpenStreetMap y Overture** para explorar una evolución hacia un gemelo digital urbano.
+Prototipo geoespacial orientado a un **gemelo digital urbano**. El repositorio público conserva una demo y la arquitectura de portfolio; el núcleo completo continúa en privado.
 
 **MapLibre · JavaScript · Python · Catastro INSPIRE · ICGC**
 
 [**Repositorio**](https://github.com/truquinio/sig-castelldefels-pro) ·
 [**Demo**](https://truquinio.github.io/sig-castelldefels-pro/) ·
-[**Arquitectura**](https://github.com/truquinio/sig-castelldefels-pro/blob/master/ARCHITECTURE.md)
+[**Arquitectura**](https://github.com/truquinio/sig-castelldefels-pro/blob/master/docs/ARCHITECTURE.md)
 
 ---
 
