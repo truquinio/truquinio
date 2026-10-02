@@ -18,23 +18,23 @@ I build practical software that connects application development, geospatial dat
 | Project | What it demonstrates | Stack | Access |
 | --- | --- | --- | --- |
 | 🖥️ **[Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)** | Local Windows 11 diagnostics and controlled maintenance with typed actions, targeted elevation and rollback-oriented flows. | C# · WPF · .NET 10 · WebView2 · TypeScript | [Repository](https://github.com/truquinio/win11-performance-control-center) |
-| 🏙️ **[SIG Castelldefels · Digital Twin](https://github.com/truquinio/sig-castelldefels-pro)** | Municipal-oriented 2D/3D geospatial prototype integrating public cadastral, planning and mapping sources. | MapLibre · JavaScript · Python · ICGC · Catastro INSPIRE | [Repository](https://github.com/trauquinio/sig-castelldefels-pro) · [Demo](https://truquinio.github.io/sig-castelldefels-pro/) |
-| 🗺️ **[SIG Castelldefels](https://github.com/trauquinio/sig-castelldefels)** | Urban-services analysis using open geospatial data and a 500 m analytical grid. | Leaflet · OpenStreetMap · GeoJSON · PostGIS | [Repository](https://github.com/trauquinio/sig-castelldefels) · [Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) |
-| 🧰 **[Home Repair](https://github.com/trauquinio/home-repair)** | Full-stack service marketplace with roles, workflows, reviews and an interactive static demo. | Java 17 · Spring Boot · Spring Security · Thymeleaf · MySQL | [Repository](https://github.com/trauquinio/home-repair) · [Demo](https://truquinio.github.io/home-repair/) |
-| 📧 **[AI Email Assistant](https://github.com/trauquinio/Asistente-automatizado-de-Emails-con-IA)** | Interactive email-classification demo plus a Python/OpenAI/IMAP backend prototype. | Python · OpenAI API · IMAP · JavaScript | [Repository](https://github.com/trauquinio/Asistente-automatizado-de-Emails-con-IA) · [Demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) |
+| 🏙️ **[SIG Castelldefels · Digital Twin](https://github.com/truquinio/sig-castelldefels-pro)** | Municipal-oriented 2D/3D geospatial prototype integrating public cadastral, planning and mapping sources. | MapLibre · JavaScript · Python · ICGC · Catastro INSPIRE | [Repository](https://github.com/truquinio/sig-castelldefels-pro) · [Demo](https://truquinio.github.io/sig-castelldefels-pro/) |
+| 🗺️ **[SIG Castelldefels](https://github.com/truquinio/sig-castelldefels)** | Urban-services analysis using open geospatial data and a 500 m analytical grid. | Leaflet · OpenStreetMap · GeoJSON · PostGIS | [Repository](https://github.com/truquinio/sig-castelldefels) · [Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) |
+| 🧰 **[Home Repair](https://github.com/truquinio/home-repair)** | Full-stack service marketplace with roles, workflows, reviews and an interactive static demo. | Java 17 · Spring Boot · Spring Security · Thymeleaf · MySQL | [Repository](https://github.com/truquinio/home-repair) · [Demo](https://truquinio.github.io/home-repair/) |
+| 📧 **[AI Email Assistant](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)** | Interactive email-classification demo plus a Python/OpenAI/IMAP backend prototype. | Python · OpenAI API · IMAP · JavaScript | [Repository](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA) · [Demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) |
 
 ### Selected interfaces
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/trauquinio/win11-performance-control-center">
-<img src="https://raw.githubusercontent.com/trauquinio/win11-performance-control-center/main/docs/screenshots/dashboard-compact.png" alt="Win11 Performance Control Center compact dashboard"/>
+<a href="https://github.com/truquinio/win11-performance-control-center">
+<img src="https://raw.githubusercontent.com/truquinio/win11-performance-control-center/main/docs/screenshots/dashboard-compact.png" alt="Win11 Performance Control Center compact dashboard"/>
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/trauquinio/home-repair">
-<img src="https://raw.githubusercontent.com/trauquinio/home-repair/main/docs/screenshots/home.png" alt="Home Repair home screen"/>
+<a href="https://github.com/truquinio/home-repair">
+<img src="https://raw.githubusercontent.com/truquinio/home-repair/main/docs/screenshots/home.png" alt="Home Repair home screen"/>
 </a>
 </td>
 </tr>
