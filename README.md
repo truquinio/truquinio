@@ -106,6 +106,31 @@ Demo de clasificación y redacción asistida de emails, acompañada por un backe
 ![WPF](https://img.shields.io/badge/WPF-Desktop-0C54C2?style=flat)
 ![WebView2](https://img.shields.io/badge/WebView2-Edge-0A84FF?style=flat&logo=microsoftedge&logoColor=white)
 
+### IA y automatización
+
+**Integraciones y conceptos que uso en proyectos**
+
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-local%20LLMs-000000?style=flat)
+![Agentes](https://img.shields.io/badge/AI-Agentes-7B61FF?style=flat)
+![Tool Calling](https://img.shields.io/badge/AI-Tool%20Calling-5B8DEF?style=flat)
+![Automatización](https://img.shields.io/badge/IA-Automatización-2EA44F?style=flat)
+
+**Herramientas de IA que forman parte de mi flujo de trabajo**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat)
+![Codex](https://img.shields.io/badge/Codex-coding%20agent-111111?style=flat)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-research-4285F4?style=flat)
+
+<sub>Las herramientas anteriores describen mi entorno de trabajo. No implican que cada producto integre todas esas APIs; las integraciones reales se documentan proyecto por proyecto.</sub>
+
+---
+
 ### GIS y datos
 
 ![PostgreSQL/PostGIS](https://img.shields.io/badge/PostgreSQL%20%2F%20PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white)
