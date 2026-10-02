@@ -1,125 +1,76 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&color=C9D1D9&vCenter=true&width=800&height=50&lines=Administracion+publica+%2F+GovTech;Full+Stack;Soporte+IT;GIS+%2F+geoespacial;Basado+en+Baix+Llobregat+(AMB)%2C+Barcelona"/>
-</p>
+<div align="center">
 
-## 💫 About Me
+# Federico Trucco · `truquinio`
 
-Me muevo entre cuatro perfiles según el proyecto:
+**Software Engineering · Geospatial / GIS · GovTech-oriented projects · Automation**
 
-- 🏛️ **Administración pública / GovTech** — herramientas de datos y geoespaciales para casos de uso municipal
-- 💻 **Full Stack** — Java/Spring, PHP y JavaScript/React de punta a punta
-- 🖥️ **Soporte IT** — infraestructura, redes y sistemas
-- 🗺️ **GIS / geoespacial** — PostGIS, Leaflet, MapLibre y análisis territorial con datos abiertos, aplicado a proyectos reales como el gemelo digital de Castelldefels
-<br><br>
+I build practical software that connects application development, geospatial data and system tooling.
 
-## 🗂️ Proyectos destacados
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Trucco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/)
+[![GitHub](https://img.shields.io/badge/GitHub-truquinio-181717?style=flat&logo=github&logoColor=white)](https://github.com/truquinio)
 
-- 🗺️ **[sig-castelldefels](https://github.com/truquinio/sig-castelldefels)** — Análisis geoespacial de servicios urbanos con datos abiertos (OSM, PostGIS, Leaflet) · [demo](https://truquinio.github.io/sig-castelldefels/web/index.html)
-- 🏙️ **[sig-castelldefels-pro](https://github.com/truquinio/sig-castelldefels-pro)** — Gemelo digital urbano: mapa 2D/3D con MapLibre, catastro INSPIRE, ortofoto ICGC · [demo](https://truquinio.github.io/sig-castelldefels-pro/)
-- 🤖 **[Asistente-automatizado-de-Emails-con-IA](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)** — Clasificación y redacción de respuestas de email con IA (IMAP + GPT) · [demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/)
-- 📖 **[clonWiki](https://github.com/truquinio/clonWiki)** — Mini diccionario multi-idioma que consulta la API de Wiktionary en vivo (PHP + jQuery)
-<br><br>
+</div>
 
-## 🔗 Socials
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/317680)
-<br><br>
+## Featured work
 
-## 🖥️ Soporte IT
+| Project | What it demonstrates | Stack | Access |
+| --- | --- | --- | --- |
+| 🖥️ **[Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)** | Local Windows 11 diagnostics and controlled maintenance with typed actions, targeted elevation and rollback-oriented flows. | C# · WPF · .NET 10 · WebView2 · TypeScript | [Repository](https://github.com/truquinio/win11-performance-control-center) |
+| 🏙️ **[SIG Castelldefels · Digital Twin](https://github.com/truquinio/sig-castelldefels-pro)** | Municipal-oriented 2D/3D geospatial prototype integrating public cadastral, planning and mapping sources. | MapLibre · JavaScript · Python · ICGC · Catastro INSPIRE | [Repository](https://github.com/trauquinio/sig-castelldefels-pro) · [Demo](https://truquinio.github.io/sig-castelldefels-pro/) |
+| 🗺️ **[SIG Castelldefels](https://github.com/trauquinio/sig-castelldefels)** | Urban-services analysis using open geospatial data and a 500 m analytical grid. | Leaflet · OpenStreetMap · GeoJSON · PostGIS | [Repository](https://github.com/trauquinio/sig-castelldefels) · [Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) |
+| 🧰 **[Home Repair](https://github.com/trauquinio/home-repair)** | Full-stack service marketplace with roles, workflows, reviews and an interactive static demo. | Java 17 · Spring Boot · Spring Security · Thymeleaf · MySQL | [Repository](https://github.com/trauquinio/home-repair) · [Demo](https://truquinio.github.io/home-repair/) |
+| 📧 **[AI Email Assistant](https://github.com/trauquinio/Asistente-automatizado-de-Emails-con-IA)** | Interactive email-classification demo plus a Python/OpenAI/IMAP backend prototype. | Python · OpenAI API · IMAP · JavaScript | [Repository](https://github.com/trauquinio/Asistente-automatizado-de-Emails-con-IA) · [Demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) |
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Redes%20%26%20TCP%2FIP-005571?style=flat&logo=cisco&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=windows&logoColor=white)
-<br><br>
+### Selected interfaces
 
-## 🗺️ GIS / Geoespacial
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/trauquinio/win11-performance-control-center">
+<img src="https://raw.githubusercontent.com/trauquinio/win11-performance-control-center/main/docs/screenshots/dashboard-compact.png" alt="Win11 Performance Control Center compact dashboard"/>
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/trauquinio/home-repair">
+<img src="https://raw.githubusercontent.com/trauquinio/home-repair/main/docs/screenshots/home.png" alt="Home Repair home screen"/>
+</a>
+</td>
+</tr>
+</table>
 
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+---
+
+## Core technologies
+
+**Software & systems**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+**Geospatial & data**
+
+![PostgreSQL/PostGIS](https://img.shields.io/badge/PostgreSQL%20%2F%20PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat)
-![PostGIS](https://img.shields.io/badge/PostgreSQL%2FPostGIS-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-<br><br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 🌐 Frontend
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
-<br><br>
+## How I approach projects
 
-## ⚙️ Backend
+- **Evidence over claims** — documentation should match what the repository actually implements.
+- **Usable demos** — where practical, projects expose a browser demo or reproducible local run path.
+- **Architecture with boundaries** — system-facing tools document privilege, security and failure boundaries instead of hiding them.
+- **Public data, reproducible analysis** — GIS work distinguishes open/public sources from official municipal or protected data.
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-<br><br>
+---
 
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-<br><br>
-
-## 🐍 Other Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-<br><br>
-
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236F42C1.svg?style=flat&logo=phpmyadmin&logoColor=white)
-<br><br>
-
-## 🤖 IA
-
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=flat&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%2374AA9C.svg?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat&logo=githubcopilot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=flat&logo=googlegemini&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%234D6BFE.svg?style=flat&logo=deepseek&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-%236155FF.svg?style=flat&logo=qwen&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-%23412991.svg?style=flat&logo=openai&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-%234285F4.svg?style=flat&logo=googlegemini&logoColor=white)
-<br><br>
-
-## 📊 GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truquinio&theme=github_dark)
-
-<table>
-<tr>
-<td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=truquinio&theme=github_dark"/>
-</td>
-<td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=truquinio&theme=github_dark"/>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=truquinio&theme=github_dark"/>
-</td>
-<td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truquinio&theme=github_dark&utcOffset=2"/>
-</td>
-</tr>
-</table>
-<br><br>
-
-## ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<sub>Profile maintained as a technical portfolio. Project-specific details live in each repository README.</sub>
