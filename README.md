@@ -2,9 +2,9 @@
 
 # Federico Trucco · truquinio
 
-### GIS / GovTech · Desarrollo de software · Automatización · Soporte IT
+### Transformación digital · IA aplicada · Automatización · Software · GovTech · Digital Twins
 
-Construyo herramientas para **territorio, sistemas Windows, servicios web y procesos operativos**.
+Desarrollo proyectos propios orientados a **digitalizar procesos, servicios y entornos urbanos**, combinando experiencia operativa con software, automatización, IA aplicada y soporte tecnológico.
 
 📍 Barcelona · Baix Llobregat
 
@@ -17,7 +17,9 @@ Construyo herramientas para **territorio, sistemas Windows, servicios web y proc
 
 ## 👋 Sobre mí
 
-Combino experiencia en **Administración Pública, urbanismo y gestión de datos** con desarrollo de software, GIS y soporte IT. Me interesan proyectos donde un problema operativo pueda convertirse en una herramienta clara, verificable y mantenible.
+Combino experiencia en **Administración Pública, gestión documental, urbanismo y tratamiento de datos** con desarrollo de software, automatización, IA aplicada y soporte IT.
+
+Mis proyectos propios exploran cómo convertir problemas operativos en herramientas útiles: automatización de procesos, software de escritorio y web, soluciones GovTech y prototipos de Digital Twins. El objetivo es aplicar tecnología de forma práctica, verificable y mantenible, tanto en entornos públicos como privados.
 
 Este portfolio reúne código público, demostraciones y proyectos privados descritos con su alcance real. Los proyectos territoriales son independientes y **no representan sistemas oficiales del Ayuntamiento de Castelldefels**.
 
