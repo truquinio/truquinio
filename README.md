@@ -2,9 +2,9 @@
 
 # Federico Trucco · truquinio
 
-### Desarrollo de software · GIS y GovTech · Automatización · Soporte IT
+### GIS / GovTech · Desarrollo de software · Automatización · Soporte IT
 
-Construyo herramientas para **sistemas Windows, servicios web y análisis territorial**.
+Construyo herramientas para **territorio, sistemas Windows, servicios web y procesos operativos**.
 
 📍 Barcelona · Baix Llobregat
 
@@ -17,87 +17,84 @@ Construyo herramientas para **sistemas Windows, servicios web y análisis territ
 
 ## 👋 Sobre mí
 
-Combino experiencia en procesos municipales y urbanismo con desarrollo de software, datos geoespaciales y soporte IT. Me interesan oportunidades donde pueda convertir procesos y datos en herramientas útiles, comprensibles y verificables.
+Combino experiencia en **Administración Pública, urbanismo y gestión de datos** con desarrollo de software, GIS y soporte IT. Me interesan proyectos donde un problema operativo pueda convertirse en una herramienta clara, verificable y mantenible.
 
-Este portfolio reúne código público, demostraciones y proyectos privados descritos con su alcance real. Los proyectos territoriales son independientes; no representan sistemas oficiales del Ayuntamiento.
+Este portfolio reúne código público, demostraciones y proyectos privados descritos con su alcance real. Los proyectos territoriales son independientes y **no representan sistemas oficiales del Ayuntamiento de Castelldefels**.
 
 ## 🚀 Proyectos destacados
 
-### 🛠️ [Home Repair](https://github.com/truquinio/home-repair)
+### 🏙️ [SIG Castelldefels · Urban Digital Twin](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
+
+Proyecto geoespacial orientado a consulta parcelaria, planeamiento, escenarios urbanos y visualización 2D/3D con trazabilidad de fuentes.
+
+**Python · FastAPI · PostgreSQL/PostGIS · MapLibre · Cesium · OGC/INSPIRE**
+
+[**Abrir showcase**](https://truquinio.github.io/sig-castelldefels-pro-portfolio/) · [**Portfolio público**](https://github.com/truinio/sig-castelldefels-pro-portfolio) · [**Arquitectura**](https://github.com/truinio/sig-castelldefels-pro-portfolio/blob/master/docs/ARCHITECTURE.md)
+
+La edición pública es un showcase 2D con geometrías de demostración. El desarrollo privado incorpora API FastAPI, PostGIS, consulta parcelaria, escenarios, MapLibre y una escena Cesium para contexto urbano y fuentes operativas. Los resultados urbanísticos no sustituyen información oficial.
+
+### 🖥️ [Win11 Performance Control Center](https://github.com/truinio/win11-performance-control-center)
+
+Aplicación de escritorio para diagnóstico y mantenimiento controlado de Windows 11, con separación entre lectura, acciones permitidas, elevación puntual y recuperación.
+
+**C# · .NET 10 · WPF · WebView2 · TypeScript**
+
+[**Presentación visual**](https://truquinio.github.io/win11-performance-control-center/) · [**Portfolio**](https://github.com/truinio/win11-performance-control-center) · [**Arquitectura**](https://github.com/truinio/win11-performance-control-center/blob/master/docs/ARCHITECTURE.md)
+
+La edición pública es una presentación estática con datos de demostración. El núcleo de escritorio completo continúa privado.
+
+### 🗺️ [SIG Castelldefels · Establecimientos económicos](https://github.com/truinio/sig-castelldefels)
+
+Visor territorial con conciliación de OpenStreetMap y Overture Maps, filtros, histórico comparable, exportación GeoJSON, PWA y malla métrica de 500 m.
+
+**Leaflet · MapLibre · GeoJSON · OSM · Overture · PostGIS**
+
+[**Abrir visor**](https://truquinio.github.io/sig-castelldefels/web/index.html) · [**Código y metodología**](https://github.com/truinio/sig-castelldefels)
+
+El inventario procede de fuentes abiertas y no equivale al Censo de Actividades Económicas municipal.
+
+### 🛠️ [Home Repair](https://github.com/truinio/home-repair)
 
 Marketplace de servicios domésticos con perfiles de cliente, profesional y administrador, solicitudes, valoraciones y gestión de imágenes.
 
 **Java 17 · Spring Boot · Spring Security · Thymeleaf · MySQL**
 
-[**Probar demo**](https://truquinio.github.io/home-repair/) · [**Ver código**](https://github.com/truquinio/home-repair) · [**UX y accesibilidad**](https://github.com/truquinio/home-repair/blob/main/docs/UX_UI_ACCESSIBILITY.md)
+[**Probar demo**](https://truquinio.github.io/home-repair/) · [**Ver código**](https://github.com/truinio/home-repair) · [**UX y accesibilidad**](https://github.com/truinio/home-repair/blob/main/docs/UX_UI_ACCESSIBILITY.md)
 
 La demo navegable usa datos y autenticación simulados en localStorage; el backend Java está incluido por separado.
-
-### 🖥️ [Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)
-
-Herramienta de escritorio para concentrar diagnóstico de Windows 11, métricas y mantenimiento controlado. El diseño separa lecturas, acciones permitidas, elevación puntual y recuperación cuando corresponde.
-
-**C# · .NET 10 · WPF · WebView2 · TypeScript**
-
-[**Presentación visual**](https://truquinio.github.io/win11-performance-control-center/) · [**Portfolio**](https://github.com/truquinio/win11-performance-control-center) · [**Arquitectura**](https://github.com/truquinio/win11-performance-control-center/blob/master/docs/ARCHITECTURE.md)
-
-La edición pública es una presentación estática con capturas de demostración. El núcleo de escritorio continúa privado; la web no ejecuta mantenimiento del ordenador.
-
-### 🗺️ [SIG Castelldefels · Establecimientos económicos](https://github.com/truquinio/sig-castelldefels)
-
-Visor de establecimientos observados en OSM y Overture con filtros, conciliación de fuentes, exportación GeoJSON, histórico OSM y malla métrica de 500 m.
-
-**Leaflet · MapLibre · GeoJSON · OSM · Overture · PostGIS**
-
-[**Abrir visor**](https://truquinio.github.io/sig-castelldefels/web/index.html) · [**Ver código y metodología**](https://github.com/truquinio/sig-castelldefels)
-
-Interfaz mobile-first y PWA. El inventario procede de fuentes abiertas y no equivale al censo administrativo municipal.
-
-### 🏙️ [SIG Castelldefels · Urban Digital Twin](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
-
-Prototipo privado de consulta parcelaria, escenarios volumétricos y visualización urbana. Integra API FastAPI, PostGIS, MapLibre y Cesium, con procedencia y supuestos explícitos.
-
-**Python · FastAPI · PostGIS · MapLibre · Cesium · Catastro INSPIRE · ICGC**
-
-[**Showcase 2D**](https://truquinio.github.io/sig-castelldefels-pro-portfolio/) · [**Portfolio público**](https://github.com/truquinio/sig-castelldefels-pro-portfolio) · [**Arquitectura pública**](https://github.com/truquinio/sig-castelldefels-pro-portfolio/blob/master/docs/ARCHITECTURE.md)
-
-El desarrollo privado incorpora una escena 3D y herramientas de consulta y escenarios. El showcase público es una demo 2D con geometrías de ejemplo; no reproduce esas integraciones ni acredita resultados urbanísticos oficiales.
-
-### 📧 [Asistente de Emails con IA](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)
-
-Demostración de clasificación y redacción asistida de correo, con un prototipo Python/IMAP/OpenAI API separado.
-
-**Python · IMAP · OpenAI API · JavaScript**
-
-[**Probar demo**](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) · [**Ver código y estado**](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)
-
-La demo usa datos simulados. El backend experimental conserva un desajuste de configuración documentado y no se presenta como flujo productivo validado.
 
 ## 📸 Vista previa
 
 | Home Repair | Win11 Performance Control Center |
 | --- | --- |
-| [![Pantalla de demostración de Home Repair](https://raw.githubusercontent.com/truquinio/home-repair/main/docs/screenshots/home.png)](https://truquinio.github.io/home-repair/) | [![Dashboard de demostración de Win11](https://raw.githubusercontent.com/truquinio/win11-performance-control-center/master/docs/screenshots/dashboard.png)](https://truquinio.github.io/win11-performance-control-center/) |
+| [![Pantalla de demostración de Home Repair](https://raw.githubusercontent.com/truinio/home-repair/main/docs/screenshots/home.png)](https://truquinio.github.io/home-repair/) | [![Dashboard de demostración de Win11](https://raw.githubusercontent.com/truinio/win11-performance-control-center/master/docs/screenshots/dashboard.png)](https://truquinio.github.io/win11-performance-control-center/) |
 
-## 🤖 Automatización privada
+## 🔒 Ingeniería privada
 
-**LinkedIn Opportunity Agent** — Node.js · Playwright · SQLite · Telegram. Agente personal de prospección, clasificación, seguimiento y coordinación de acciones, con persistencia y mecanismos contra ejecuciones duplicadas. Incluye integraciones opcionales con Gmail, Calendar y proveedores IA. Código, datos operativos y sesiones privados; sin demo pública.
+### 🤖 LinkedIn Opportunity Agent
 
-## 🧩 Otros trabajos
+Agente personal en **Node.js · Playwright · SQLite · Telegram** para prospección, inbox, oportunidades, coordinación de acciones, recuperación e idempotencia. Integra opcionalmente Gmail, Calendar, Fathom y distintos proveedores de modelos. Código, sesiones y datos operativos permanecen privados.
 
-[**Mini Diccionario**](https://github.com/truquinio/clonWiki) — interfaz PHP/cURL/jQuery que consulta definiciones de Wiktionary. Incluye capturas y arranque local; depende de la disponibilidad del servicio externo.
+### 📱 LG V30 H930 · Android 15
+
+Workspace de ingeniería para adaptar **LineageOS 22.2 / Android 15** al LG V30 H930, con foco en rollback verificable, compatibilidad de radio/IMS, 112, ES-Alert y preservación de funciones del dispositivo. Se mantiene privado por contener trabajo técnico sensible al hardware.
+
+## 🧩 Otros trabajos públicos
+
+- 📧 [**Asistente Automatizado de Emails con IA**](https://github.com/truinio/Asistente-automatizado-de-Emails-con-IA) — demo de clasificación y redacción asistida; el backend Python permanece identificado como prototipo en progreso.
+- 📜 [**Mini Diccionario**](https://github.com/truinio/clonWiki) — interfaz PHP/cURL/jQuery conectada a Wiktionary.
 
 ## 🧰 Tecnologías presentes en mis proyectos
 
 | Área | Stack |
 | --- | --- |
+| GIS / GovTech | PostGIS · Leaflet · MapLibre · Cesium · GeoJSON · OGC/INSPIRE |
 | Software Windows | C# · .NET · WPF · WebView2 · TypeScript |
 | Web y backend | Java · Spring Boot · Python · FastAPI · PHP · JavaScript |
-| GIS y datos | Leaflet · MapLibre · Cesium · GeoJSON · PostgreSQL/PostGIS · MySQL |
 | Automatización | Node.js · Playwright · SQLite · Telegram |
-| Integraciones IA | OpenAI API · Groq · Gemini · Ollama |
+| Datos | PostgreSQL/PostGIS · MySQL · APIs y fuentes abiertas |
 
-Los README distinguen lo implementado de lo experimental y enlazan los comandos y comprobaciones disponibles. Las demostraciones simuladas se identifican expresamente.
+Los README distinguen lo implementado de lo experimental y separan demos, simulaciones y fuentes abiertas de datos oficiales.
 
 ---
 
@@ -105,4 +102,4 @@ Los README distinguen lo implementado de lo experimental y enlazan los comandos 
 
 ---
 
-**by [truquinio](https://github.com/truquinio)** · [LinkedIn](https://www.linkedin.com/in/federico-trucco/)
+**by [truquinio](https://github.com/truinio)** · [LinkedIn](https://www.linkedin.com/in/federico-trucco/)
