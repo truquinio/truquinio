@@ -29,37 +29,37 @@ Proyecto geoespacial orientado a consulta parcelaria, planeamiento, escenarios u
 
 **Python · FastAPI · PostgreSQL/PostGIS · MapLibre · Cesium · OGC/INSPIRE**
 
-[**Abrir showcase**](https://truquinio.github.io/sig-castelldefels-pro-portfolio/) · [**Portfolio público**](https://github.com/truinio/sig-castelldefels-pro-portfolio) · [**Arquitectura**](https://github.com/truinio/sig-castelldefels-pro-portfolio/blob/master/docs/ARCHITECTURE.md)
+[**Abrir showcase**](https://truquinio.github.io/sig-castelldefels-pro-portfolio/) · [**Portfolio público**](https://github.com/truquinio/sig-castelldefels-pro-portfolio) · [**Arquitectura**](https://github.com/truquinio/sig-castelldefels-pro-portfolio/blob/master/docs/ARCHITECTURE.md)
 
 La edición pública es un showcase 2D con geometrías de demostración. El desarrollo privado incorpora API FastAPI, PostGIS, consulta parcelaria, escenarios, MapLibre y una escena Cesium para contexto urbano y fuentes operativas. Los resultados urbanísticos no sustituyen información oficial.
 
-### 🖥️ [Win11 Performance Control Center](https://github.com/truinio/win11-performance-control-center)
+### 🖥️ [Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)
 
 Aplicación de escritorio para diagnóstico y mantenimiento controlado de Windows 11, con separación entre lectura, acciones permitidas, elevación puntual y recuperación.
 
 **C# · .NET 10 · WPF · WebView2 · TypeScript**
 
-[**Presentación visual**](https://truquinio.github.io/win11-performance-control-center/) · [**Portfolio**](https://github.com/truinio/win11-performance-control-center) · [**Arquitectura**](https://github.com/truinio/win11-performance-control-center/blob/master/docs/ARCHITECTURE.md)
+[**Presentación visual**](https://truquinio.github.io/win11-performance-control-center/) · [**Portfolio**](https://github.com/truquinio/win11-performance-control-center) · [**Arquitectura**](https://github.com/truquinio/win11-performance-control-center/blob/master/docs/ARCHITECTURE.md)
 
 La edición pública es una presentación estática con datos de demostración. El núcleo de escritorio completo continúa privado.
 
-### 🗺️ [SIG Castelldefels · Establecimientos económicos](https://github.com/truinio/sig-castelldefels)
+### 🗺️ [SIG Castelldefels · Establecimientos económicos](https://github.com/truquinio/sig-castelldefels)
 
 Visor territorial con conciliación de OpenStreetMap y Overture Maps, filtros, histórico comparable, exportación GeoJSON, PWA y malla métrica de 500 m.
 
 **Leaflet · MapLibre · GeoJSON · OSM · Overture · PostGIS**
 
-[**Abrir visor**](https://truquinio.github.io/sig-castelldefels/web/index.html) · [**Código y metodología**](https://github.com/truinio/sig-castelldefels)
+[**Abrir visor**](https://truquinio.github.io/sig-castelldefels/web/index.html) · [**Código y metodología**](https://github.com/truquinio/sig-castelldefels)
 
 El inventario procede de fuentes abiertas y no equivale al Censo de Actividades Económicas municipal.
 
-### 🛠️ [Home Repair](https://github.com/truinio/home-repair)
+### 🛠️ [Home Repair](https://github.com/truquinio/home-repair)
 
 Marketplace de servicios domésticos con perfiles de cliente, profesional y administrador, solicitudes, valoraciones y gestión de imágenes.
 
 **Java 17 · Spring Boot · Spring Security · Thymeleaf · MySQL**
 
-[**Probar demo**](https://truquinio.github.io/home-repair/) · [**Ver código**](https://github.com/truinio/home-repair) · [**UX y accesibilidad**](https://github.com/truinio/home-repair/blob/main/docs/UX_UI_ACCESSIBILITY.md)
+[**Probar demo**](https://truquinio.github.io/home-repair/) · [**Ver código**](https://github.com/truquinio/home-repair) · [**UX y accesibilidad**](https://github.com/truquinio/home-repair/blob/main/docs/UX_UI_ACCESSIBILITY.md)
 
 La demo navegable usa datos y autenticación simulados en localStorage; el backend Java está incluido por separado.
 
@@ -67,7 +67,7 @@ La demo navegable usa datos y autenticación simulados en localStorage; el backe
 
 | Home Repair | Win11 Performance Control Center |
 | --- | --- |
-| [![Pantalla de demostración de Home Repair](https://raw.githubusercontent.com/truinio/home-repair/main/docs/screenshots/home.png)](https://truquinio.github.io/home-repair/) | [![Dashboard de demostración de Win11](https://raw.githubusercontent.com/truinio/win11-performance-control-center/master/docs/screenshots/dashboard.png)](https://truquinio.github.io/win11-performance-control-center/) |
+| [![Pantalla de demostración de Home Repair](https://raw.githubusercontent.com/truquinio/home-repair/main/docs/screenshots/home.png)](https://truquinio.github.io/home-repair/) | [![Dashboard de demostración de Win11](https://raw.githubusercontent.com/truquinio/win11-performance-control-center/master/docs/screenshots/dashboard.png)](https://truquinio.github.io/win11-performance-control-center/) |
 
 ## 🔒 Ingeniería privada
 
@@ -81,8 +81,8 @@ Workspace de ingeniería para adaptar **LineageOS 22.2 / Android 15** al LG V30 
 
 ## 🧩 Otros trabajos públicos
 
-- 📧 [**Asistente Automatizado de Emails con IA**](https://github.com/truinio/Asistente-automatizado-de-Emails-con-IA) — demo de clasificación y redacción asistida; el backend Python permanece identificado como prototipo en progreso.
-- 📜 [**Mini Diccionario**](https://github.com/truinio/clonWiki) — interfaz PHP/cURL/jQuery conectada a Wiktionary.
+- 📧 [**Asistente Automatizado de Emails con IA**](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA) — demo de clasificación y redacción asistida; el backend Python permanece identificado como prototipo en progreso.
+- 📜 [**Mini Diccionario**](https://github.com/truquinio/clonWiki) — interfaz PHP/cURL/jQuery conectada a Wiktionary.
 
 ## 🧰 Tecnologías presentes en mis proyectos
 
@@ -102,4 +102,4 @@ Los README distinguen lo implementado de lo experimental y separan demos, simula
 
 ---
 
-**by [truquinio](https://github.com/truinio)** · [LinkedIn](https://www.linkedin.com/in/federico-trucco/)
+**by [truquinio](https://github.com/truquinio)** · [LinkedIn](https://www.linkedin.com/in/federico-trucco/)
