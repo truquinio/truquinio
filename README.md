@@ -25,15 +25,15 @@ Este portfolio reúne código público, demostraciones y proyectos privados desc
 
 ## 🚀 Proyectos destacados
 
-### 🏙️ [SIG Castelldefels · Urban Digital Twin](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
+### 🏙️ [SIG Castelldefels v2 · Urban Digital Twin](https://sig-castelldefels-twin.onrender.com/)
 
 Proyecto geoespacial orientado a consulta parcelaria, planeamiento, escenarios urbanos y visualización 2D/3D con trazabilidad de fuentes.
 
 **Python · FastAPI · PostgreSQL/PostGIS · MapLibre · Cesium · OGC/INSPIRE**
 
-[**Abrir showcase**](https://truquinio.github.io/sig-castelldefels-pro-portfolio/) · [**Portfolio público**](https://github.com/truquinio/sig-castelldefels-pro-portfolio) · [**Arquitectura**](https://github.com/truquinio/sig-castelldefels-pro-portfolio/blob/master/docs/ARCHITECTURE.md)
+[**Abrir aplicación**](https://sig-castelldefels-twin.onrender.com/) · [**Portfolio público**](https://github.com/truquinio/sig-castelldefels-pro-portfolio) · [**Showcase técnico**](https://truquinio.github.io/sig-castelldefels-pro-portfolio/) · [**Arquitectura**](https://github.com/truquinio/sig-castelldefels-pro-portfolio/blob/master/docs/ARCHITECTURE.md)
 
-La edición pública es un showcase 2D con geometrías de demostración. El desarrollo privado incorpora API FastAPI, PostGIS, consulta parcelaria, escenarios, MapLibre y una escena Cesium para contexto urbano y fuentes operativas. Los resultados urbanísticos no sustituyen información oficial.
+La aplicación desplegada en Render es la referencia funcional del proyecto. El repositorio público conserva documentación y un showcase técnico complementario. El sistema incorpora API FastAPI, PostGIS, consulta parcelaria, escenarios, MapLibre y una escena Cesium para contexto urbano y fuentes operativas. Los resultados urbanísticos no sustituyen información oficial.
 
 ### 🖥️ [Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)
 
