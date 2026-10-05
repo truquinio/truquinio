@@ -19,47 +19,53 @@ Barcelona · Baix Llobregat
 
 Vengo de la **gestión operativa y la Administración Pública** y complemento esa experiencia con desarrollo de software, automatización, IA aplicada y soporte IT.
 
-Antes de elegir una tecnología, intento entender qué se puede **simplificar, automatizar o medir mejor**. Mis proyectos propios convierten necesidades concretas en prototipos funcionales, verificables y fáciles de explicar.
+Antes de elegir una tecnología, intento entender qué se puede **simplificar, automatizar o medir mejor**. Mis proyectos propios exploran soluciones concretas y documentan qué está implementado, qué es experimental y cómo comprobarlo.
 
-Trabajo con tecnologías distintas según el problema. GIS/SIG aparece en algunos proyectos territoriales, pero no define todo mi perfil.
+Mi experiencia reciente en Urbanismo y Planeamiento del Ajuntament de Castelldefels aporta contexto operativo a este trabajo.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/truquinio/home-repair/main/docs/screenshots/home.png" alt="Vista de la demo de Home Repair, proyecto web del portfolio" width="800"/>
+</p>
+
+<sub>Home Repair · ejemplo de interfaz del portfolio, con datos de demostración.</sub>
 
 ## 🚀 Proyectos destacados
 
-### 🏙️ [SIG Castelldefels v2 · Urban Digital Twin](https://sig-castelldefels-twin.onrender.com/)
+### 🏙️ SIG Castelldefels v2 · Urban Digital Twin
 
-Digital Twin urbano para consultar territorio, planeamiento y escenarios 2D/3D con datos trazables.
+Prototipo independiente para consultar territorio, planeamiento y escenarios 2D/3D con procedencia y supuestos explícitos.
 
 **FastAPI · PostgreSQL/PostGIS · MapLibre · Cesium**
 
 [**Abrir aplicación**](https://sig-castelldefels-twin.onrender.com/) · [**Portfolio técnico**](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
 
-### 📧 [Asistente automatizado de Emails con IA](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)
+### 📧 Asistente automatizado de Emails con IA
 
-Prototipo para clasificar correo y proponer respuestas asistidas por IA, separando la demo pública del backend experimental.
+Demo de clasificación de correo y propuestas de respuesta con datos simulados; el backend Python es experimental y conserva una incompatibilidad de configuración documentada.
 
 **Python · IMAP/SSL · OpenAI API**
 
 [**Ver proyecto**](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA) · [**Abrir demo**](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/)
 
-### 🗺️ [SIG Castelldefels · Establecimientos económicos](https://github.com/truquinio/sig-castelldefels)
+### 🗺️ SIG Castelldefels · Establecimientos económicos
 
-Visor territorial para explorar actividad económica mediante fuentes abiertas, conciliación de datos y análisis reproducible.
+Visor de establecimientos observados con fuentes abiertas, conciliación y exportación GeoJSON; no equivale al censo administrativo municipal.
 
 **OpenStreetMap · Overture Maps · Leaflet · MapLibre · GeoJSON**
 
 [**Abrir visor**](https://truquinio.github.io/sig-castelldefels/web/index.html) · [**Ver proyecto**](https://github.com/truquinio/sig-castelldefels)
 
-### 🖥️ [Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)
+### 🖥️ Win11 Performance Control Center
 
-Herramienta de diagnóstico y mantenimiento controlado de Windows 11, con separación entre lectura, acciones protegidas y recuperación.
+Proyecto de escritorio para diagnóstico y mantenimiento controlado de Windows 11. La edición pública muestra diseño y arquitectura; su web no ejecuta acciones sobre el equipo.
 
 **C# · .NET · WPF · WebView2 · TypeScript**
 
 [**Abrir demo**](https://truquinio.github.io/win11-performance-control-center/) · [**Ver proyecto**](https://github.com/truquinio/win11-performance-control-center)
 
-### 🛠️ [Home Repair](https://github.com/truquinio/home-repair)
+### 🛠️ Home Repair
 
-Plataforma web que conecta clientes y profesionales de reparaciones del hogar con perfiles, solicitudes, reseñas y administración.
+Plataforma web de servicios domésticos con perfiles, solicitudes y reseñas. Backend Java público y demo independiente con autenticación y datos simulados.
 
 **Java · Spring Boot · Spring Security · Thymeleaf · MySQL**
 
