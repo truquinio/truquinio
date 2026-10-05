@@ -8,8 +8,8 @@
 
 📍 Barcelona · Baix Llobregat
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Trucco-0A66C2?style=flat-square)](https://www.linkedin.com/in/federico-trucco/)
-[![GitHub](https://img.shields.io/badge/GitHub-truquinio-181717?style=flat-square)](https://github.com/truquinio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Trucco-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/)
+[![GitHub](https://img.shields.io/badge/GitHub-truquinio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/truquinio)
 
 </div>
 
@@ -17,47 +17,75 @@
 
 ## 👤 Sobre mí
 
-Vengo de la gestión operativa y la Administración Pública. Mi experiencia reciente en Urbanismo y Planeamiento del Ajuntament de Castelldefels me enseñó a mirar primero el proceso: **qué se puede simplificar, automatizar o medir mejor**.
+Vengo de la **gestión operativa y la Administración Pública**. Mi experiencia reciente en Urbanismo y Planeamiento del Ajuntament de Castelldefels reforzó una forma de trabajar muy concreta: antes de elegir una tecnología, entender **qué se puede simplificar, automatizar o medir mejor**.
 
-Complemento ese contexto con formación en desarrollo web y proyectos propios de software, IA aplicada, automatización y visualización de datos. Hay productos web, herramientas de escritorio y prototipos urbanos; cada repositorio explica su alcance y cómo probarlo. Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento.
+Complemento ese contexto con desarrollo de software, IA aplicada, automatización, soporte IT y datos. Mis proyectos propios convierten necesidades concretas en prototipos funcionales, verificables y fáciles de explicar.
+
+- 🏛️ **Contexto operativo** · administración, expedientes, datos y procesos.
+- ⚙️ **Ejecución técnica** · software, automatización, IA aplicada y soporte IT.
+- 🧩 **Enfoque** · elegir la tecnología después de entender el problema.
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Qué puedes explorar | Alcance |
-| --- | --- | --- |
-| 🏙️ [SIG Castelldefels v2 · Urban Digital Twin](https://sig-castelldefels-twin.onrender.com/) | Territorio, planeamiento y escenarios urbanos en 2D/3D. [Portfolio técnico](https://github.com/truquinio/sig-castelldefels-pro-portfolio). | Prototipo independiente; fuentes y supuestos documentados. |
-| 📧 [Asistente automatizado de Emails con IA](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) | Clasificación y propuestas de respuesta. [Código](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA). | Demo con datos simulados; backend Python experimental con un desajuste de configuración documentado. |
-| 🗺️ [SIG Castelldefels · Establecimientos económicos](https://truquinio.github.io/sig-castelldefels/web/index.html) | Visor de actividad económica observada, filtros, conciliación y exportación GeoJSON. [Código y metodología](https://github.com/truquinio/sig-castelldefels). | Usa fuentes abiertas OSM y Overture; no equivale al censo municipal. |
-| 🖥️ [Win11 Performance Control Center](https://truquinio.github.io/win11-performance-control-center/) | Diseño y arquitectura de una herramienta de diagnóstico y mantenimiento controlado. [Repositorio](https://github.com/truquinio/win11-performance-control-center). | Portfolio estático; el núcleo de escritorio sigue privado y la web no actúa sobre el equipo. |
-| 🛠️ [Home Repair](https://truquinio.github.io/home-repair/) | Plataforma de servicios domésticos con perfiles, solicitudes y reseñas. [Backend Java](https://github.com/truquinio/home-repair). | La demo web usa autenticación y datos simulados. |
+### 🏙️ [SIG Castelldefels v2 · Urban Digital Twin](https://sig-castelldefels-twin.onrender.com/)
 
-<p align="center">
-  <a href="https://truquinio.github.io/win11-performance-control-center/"><img src="https://raw.githubusercontent.com/truquinio/win11-performance-control-center/master/docs/screenshots/dashboard.png" alt="Panel de demostración de Win11 Performance Control Center" width="260" /></a>
-  <a href="https://truquinio.github.io/home-repair/"><img src="https://raw.githubusercontent.com/truquinio/home-repair/main/docs/screenshots/home.png" alt="Pantalla de demostración de Home Repair" width="260" /></a>
-</p>
+Digital Twin urbano para consultar territorio, planeamiento y escenarios 2D/3D con datos trazables.
 
-<p align="center"><sub>Vistas de demostración. Cada enlace anterior lleva a la experiencia y a sus limitaciones.</sub></p>
+**FastAPI · PostgreSQL/PostGIS · MapLibre · Cesium**
 
-## 🤖 Automatización y otros trabajos
+[🌐 **Abrir aplicación**](https://sig-castelldefels-twin.onrender.com/) · [📦 **Portfolio técnico**](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
 
-**Agente de oportunidades profesionales** — proyecto privado con Node.js, Playwright, SQLite y Telegram para clasificación, seguimiento y supervisión de acciones. Código, sesiones y datos operativos no públicos; no hay demo disponible.
+> Proyecto independiente. Los resultados y escenarios no sustituyen información urbanística oficial.
 
-**[Mini Diccionario](https://github.com/truquinio/clonWiki)** — consulta definiciones de Wiktionary con PHP, cURL y jQuery; el repositorio incluye capturas e instrucciones de arranque.
+### 📧 [Asistente automatizado de Emails con IA](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)
 
-## 🧰 Tecnologías que uso
+Prototipo para clasificar correo y proponer respuestas asistidas por IA, con demo pública y backend experimental documentado por separado.
 
-| Área | Herramientas presentes en proyectos |
-| --- | --- |
-| Software y backend | C# · .NET · WPF · WebView2 · Java · Spring Boot · Python · FastAPI |
-| Web e IA aplicada | TypeScript · JavaScript · PHP · OpenAI API · Node.js · Playwright |
-| Datos y cartografía | PostgreSQL/PostGIS · MySQL · SQLite · MapLibre · Cesium · Leaflet · GeoJSON |
+**Python · IMAP/SSL · OpenAI API**
 
-Las herramientas de IA de mi flujo de trabajo no implican que cada proyecto integre todas sus APIs. En los repositorios distingo implementaciones, demos y trabajo experimental.
+[🌐 **Abrir demo**](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) · [📦 **Ver proyecto**](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)
 
-## 🤝 Contacto
+### 🗺️ [SIG Castelldefels · Establecimientos económicos](https://github.com/truquinio/sig-castelldefels)
 
-Me interesan equipos públicos y privados que trabajen en transformación digital, automatización, software e IA aplicada. [Hablemos por LinkedIn](https://www.linkedin.com/in/federico-trucco/).
+Visor territorial para explorar actividad económica mediante fuentes abiertas, conciliación de datos y análisis reproducible.
+
+**OpenStreetMap · Overture Maps · Leaflet · MapLibre · GeoJSON**
+
+[🌐 **Abrir visor**](https://truquinio.github.io/sig-castelldefels/web/index.html) · [📦 **Código y metodología**](https://github.com/truquinio/sig-castelldefels)
+
+> Usa fuentes abiertas y no equivale al Censo de Actividades Económicas municipal.
+
+### 🖥️ [Win11 Performance Control Center](https://github.com/truquinio/win11-performance-control-center)
+
+Herramienta de diagnóstico y mantenimiento controlado de Windows 11, con separación entre lectura, acciones protegidas y recuperación.
+
+**C# · .NET · WPF · WebView2 · TypeScript**
+
+[🌐 **Abrir demo**](https://truquinio.github.io/win11-performance-control-center/) · [📦 **Ver proyecto**](https://github.com/truquinio/win11-performance-control-center)
+
+### 🛠️ [Home Repair](https://github.com/truquinio/home-repair)
+
+Plataforma web de servicios domésticos con perfiles, solicitudes, reseñas y administración.
+
+**Java · Spring Boot · Spring Security · Thymeleaf · MySQL**
+
+[🌐 **Abrir demo**](https://truquinio.github.io/home-repair/) · [📦 **Ver proyecto**](https://github.com/truquinio/home-repair)
+
+## 🧰 Tecnologías
+
+**Software y backend** · C# · .NET · Java · Spring Boot · Python · FastAPI  
+**Web** · TypeScript · JavaScript · HTML · CSS · Thymeleaf  
+**Datos y territorio** · PostgreSQL/PostGIS · MySQL · SQLite · MapLibre · Cesium · Leaflet  
+**Automatización e IA** · Node.js · Playwright · APIs de IA
+
+## 🤝 Hablemos
+
+Me interesan equipos públicos y privados que estén trabajando en **transformación digital, automatización, software, IA aplicada, GovTech o Digital Twins**.
+
+[![LinkedIn](https://img.shields.io/badge/Hablemos_en_LinkedIn-Federico%20Trucco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/)
 
 ---
+
+Los proyectos territoriales de este portfolio son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
 
 **by [truquinio](https://github.com/truquinio)**
