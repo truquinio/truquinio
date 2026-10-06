@@ -19,13 +19,25 @@
 
 Vengo de la **gestión operativa y la Administración Pública** y complemento ese contexto con software, automatización, IA aplicada, soporte IT y datos.
 
-Antes de elegir una tecnología intento entender el problema: **qué se puede simplificar, automatizar o medir mejor**. Después construyo la herramienta que tenga sentido.
+Antes de elegir una tecnología intento entender el problema: **qué se puede simplificar, automatizar, conectar o medir mejor**. Después construyo la herramienta que tenga sentido.
 
 ## 🧭 En qué trabajo
 
-🏙️ **GovTech · Digital Twins** — territorio, planeamiento y datos convertidos en herramientas útiles.  
+🏙️ **GovTech · Digital Twins** — territorio, planeamiento, datos y escenarios convertidos en herramientas útiles.  
 🤖 **IA aplicada · Automatización** — menos tareas repetitivas y mejores flujos de trabajo.  
 🖥️ **Software · IT** — aplicaciones, diagnóstico y soluciones para problemas operativos reales.
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Qué demuestra | Acceso |
+| --- | --- | --- |
+| 🏙️ **SIG Castelldefels v2 · Urban Digital Twin** | MapLibre + Cesium + FastAPI + PostGIS · parcela, planeamiento, evidencia y escenarios 2D/3D | [Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/truquinio/sig-castelldefels-pro-portfolio) |
+| 🖥️ **Win11 Performance Control Center** | C# · .NET · WPF · WebView2 · diagnóstico, seguridad operativa y recovery | [Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repo](https://github.com/truquinio/win11-performance-control-center) |
+| 🛠️ **Home Repair** | Java · Spring Boot · Spring Security · MySQL · producto web con roles y flujo completo | [Demo](https://truquinio.github.io/home-repair/) · [Repo](https://github.com/truquinio/home-repair) |
+| 🗺️ **SIG Castelldefels** | Leaflet · OpenStreetMap · Overture · PostGIS · análisis territorial reproducible | [Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repo](https://github.com/truquinio/sig-castelldefels) |
+| 📧 **Asistente automatizado de Emails con IA** | Python · IMAP · OpenAI API · clasificación y redacción asistida con configuración validada | [Demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) · [Repo](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA) |
+
+> Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
 
 ## 🛠️ Stack
 
@@ -43,13 +55,6 @@ Antes de elegir una tecnología intento entender el problema: **qué se puede si
 ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square)
 ![Cesium](https://img.shields.io/badge/Cesium-3D-6CADDF?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-## 🚧 Ahora
-
-🏙️ [**SIG Castelldefels v2 · Urban Digital Twin**](https://sig-castelldefels-twin.onrender.com/) · territorio, planeamiento y escenarios 2D/3D con datos trazables.  
-📧 [**Asistente automatizado de Emails con IA**](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA) · clasificación y redacción asistida de correo.
-
-> Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
 
 ## 🤝 Hablemos
 
