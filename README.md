@@ -30,7 +30,7 @@ Análisis parcelario, planeamiento, evidencia y escenarios urbanos 2D/3D.
 
 **MapLibre GL JS · CesiumJS · FastAPI · PostgreSQL/PostGIS · PMTiles · PWA**
 
-[Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/trauquinio/sig-castelldefels-pro-portfolio)
+[Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
 
 ### 🖥️ Win11 Performance Control Center
 
@@ -38,7 +38,7 @@ Diagnóstico y mantenimiento controlado de Windows 11 con separación entre lect
 
 **C# · .NET 10 · WPF · WebView2 · TypeScript · Windows APIs · WMI · Event Log · Registry**
 
-[Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repo](https://github.com/trauquinio/win11-performance-control-center)
+[Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repo](https://github.com/truquinio/win11-performance-control-center)
 
 ### 🛠️ Home Repair
 
@@ -46,7 +46,7 @@ Marketplace web con roles, solicitudes, perfiles y gestión administrativa.
 
 **Java 17 · Spring Boot · Spring Security · Spring MVC · Spring Data JPA · Hibernate · MySQL · Thymeleaf · Bootstrap · Maven**
 
-[Demo](https://truquinio.github.io/home-repair/) · [Repo](https://github.com/trauquinio/home-repair)
+[Demo](https://truquinio.github.io/home-repair/) · [Repo](https://github.com/truquinio/home-repair)
 
 ### 🗺️ SIG Castelldefels
 
@@ -54,7 +54,7 @@ Visor territorial reproducible de establecimientos económicos con fuentes abier
 
 **Leaflet · MapLibre GL JS · OpenStreetMap · Overpass API · Overture Maps · Panoramax · PostgreSQL/PostGIS · GeoJSON · JavaScript**
 
-[Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repo](https://github.com/trauquinio/sig-castelldefels)
+[Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repo](https://github.com/truquinio/sig-castelldefels)
 
 ### 📧 Asistente automatizado de Emails con IA
 
@@ -62,7 +62,7 @@ Clasificación y redacción asistida de correo con backend Python y demo indepen
 
 **Python · OpenAI API · IMAP · Pydantic 2 · pydantic-settings · pytest · HTML/CSS/JavaScript**
 
-[Demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) · [Repo](https://github.com/trauquinio/Asistente-automatizado-de-Emails-con-IA)
+[Demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) · [Repo](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)
 
 > Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
 
@@ -115,4 +115,4 @@ Me interesan proyectos de **transformación digital, automatización, software, 
 
 ---
 
-**by [truquinio](https://github.com/trauquinio)**
+**by [truquinio](https://github.com/truquinio)**
