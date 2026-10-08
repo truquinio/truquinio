@@ -1,67 +1,58 @@
 <div align="center">
 
-# Federico Trucco
+# 👋 Federico Trucco · truquinio
 
-**Transformación digital · IA aplicada · Automatización · Software · GovTech · Digital Twins**
+### Transformación digital · IA aplicada · Automatización · Software · GovTech · Digital Twins
 
-Convierto procesos y datos en soluciones digitales útiles.
+**Convierto procesos y datos en soluciones digitales útiles.**
 
-**Barcelona · Baix Llobregat**
+📍 Barcelona · Baix Llobregat
 
-[LinkedIn](https://www.linkedin.com/in/federico-trucco/) · [Urban Digital Twin](https://sig-castelldefels-twin.onrender.com/) · [Repositorios](https://github.com/truquinio?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Trucco-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/)
+[![GitHub](https://img.shields.io/badge/GitHub-truquinio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/truquinio)
 
 </div>
 
 ---
 
-## Qué hago
+## 👋 Sobre mí
 
-Mi perfil combina **Administración y operaciones reales** con desarrollo de software.
+Vengo de la **gestión operativa y la Administración Pública** y complemento ese contexto con software, automatización, IA aplicada, soporte IT y datos.
 
-Trabajo sobre procesos que pueden entenderse, simplificarse o automatizarse y los convierto en herramientas que ayuden a **decidir, operar o verificar mejor**.
+Antes de elegir una tecnología intento entender el problema: **qué se puede simplificar, automatizar, conectar o medir mejor**. Después construyo la herramienta que tenga sentido.
 
-`proceso → datos → solución → verificación`
+## 🧭 En qué trabajo
 
-## Trabajo seleccionado
+🏙️ **GovTech · Digital Twins** — territorio, planeamiento, datos y escenarios convertidos en herramientas útiles.  
+🤖 **IA aplicada · Automatización** — menos tareas repetitivas, mejores flujos y decisiones más trazables.  
+🖥️ **Software · IT** — aplicaciones, diagnóstico y soluciones para problemas operativos reales.
 
-### 🏙️ SIG Castelldefels · Urban Digital Twin
-De una parcela y sus fuentes territoriales a evidencia, condicionantes y escenarios urbanos 2D/3D, manteniendo separadas las fuentes verificadas de las estimaciones.
+## 🛠️ Stack
 
-**MapLibre GL JS · CesiumJS · FastAPI · PostgreSQL/PostGIS · PMTiles**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-[Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### 🖥️ Win11 Performance Control Center
-Herramienta local de diagnóstico y mantenimiento controlado de Windows 11, diseñada alrededor de lectura, acción protegida, verificación y recovery.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**C# · .NET · WPF · WebView2 · TypeScript · Windows APIs**
-
-[Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repositorio](https://github.com/truquinio/win11-performance-control-center)
-
-### 🛠️ Home Repair
-Aplicación web de servicios domésticos con clientes, profesionales, solicitudes, roles y administración.
-
-**Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · MySQL**
-
-[Demo](https://truquinio.github.io/home-repair/) · [Repositorio](https://github.com/truquinio/home-repair)
-
-### 🗺️ SIG Castelldefels · Actividades económicas
-Visor reproducible de establecimientos observados mediante fuentes abiertas, con conciliación de datos, histórico, PWA y contexto territorial.
-
-**Leaflet · MapLibre GL JS · OpenStreetMap · Overture Maps · PostGIS · GeoJSON**
-
-[Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repositorio](https://github.com/truquinio/sig-castelldefels)
-
-**Otros proyectos públicos:** [Asistente de Emails con IA](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA) · [Mini Diccionario / Wiktionary](https://github.com/truquinio/clonWiki)
-
-> Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
-
-## Stack
-
-**Trabajo habitual:** C# / .NET · Python / FastAPI · JavaScript / TypeScript · Java / Spring · PostgreSQL / PostGIS · MapLibre / Cesium / Leaflet · Playwright · GitHub Actions
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square)
+![Cesium](https://img.shields.io/badge/Cesium-3D-6CADDF?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <details>
-<summary><strong>Ver tecnologías usadas y documentadas en mis repositorios</strong></summary>
+<summary><strong>Ver stack completo usado y documentado en mis repositorios</strong></summary>
 
 <br>
 
@@ -94,19 +85,19 @@ Git · GitHub · npm · Maven · pytest · xUnit · GitHub Actions · GitHub Pag
 
 </details>
 
-## Cómo trabajo
+## 🚧 Ahora
 
-- **Utilidad antes que espectáculo.**
-- **Datos verificados separados de estimaciones y supuestos.**
-- **Automatización con controles, trazabilidad y recuperación.**
-- **Documentación que explique lo que el proyecto hace realmente, no lo que podría hacer.**
+🏙️ [**SIG Castelldefels v2 · Urban Digital Twin**](https://sig-castelldefels-twin.onrender.com/) · territorio, planeamiento, evidencia y escenarios urbanos 2D/3D.  
+🖥️ [**Win11 Performance Control Center**](https://truquinio.github.io/win11-performance-control-center/) · diagnóstico y mantenimiento controlado de Windows 11.
 
-## Contacto
+> Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
 
-Me interesan proyectos donde se crucen **transformación digital, automatización, software, IA aplicada, GovTech y Digital Twins**.
+## 🤝 Hablemos
 
-[LinkedIn · Federico Trucco](https://www.linkedin.com/in/federico-trucco/)
+Me interesan equipos públicos y privados que trabajen en **transformación digital, automatización, software, IA aplicada, GovTech o Digital Twins**.
+
+[![Hablemos en LinkedIn](https://img.shields.io/badge/Hablemos_en_LinkedIn-Federico%20Trucco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-trucco/)
 
 ---
 
-<sub>by <a href="https://github.com/truquinio">truquinio</a></sub>
+**by [truquinio](https://github.com/truquinio)**
