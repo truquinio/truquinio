@@ -1,77 +1,67 @@
 <div align="center">
 
-# Federico Trucco · truquinio
+# Federico Trucco
 
-**Transformación digital · GovTech · GIS / Digital Twins · IA aplicada · Automatización · Software**
+**Transformación digital · IA aplicada · Automatización · Software · GovTech · Digital Twins**
 
 Convierto procesos y datos en soluciones digitales útiles.
 
-Barcelona · Baix Llobregat
+**Barcelona · Baix Llobregat**
 
-[LinkedIn](https://www.linkedin.com/in/federico-trucco/) · [GitHub](https://github.com/truquinio)
+[LinkedIn](https://www.linkedin.com/in/federico-trucco/) · [Urban Digital Twin](https://sig-castelldefels-twin.onrender.com/) · [Repositorios](https://github.com/truquinio?tab=repositories)
 
 </div>
 
 ---
 
-## De un vistazo
+## Qué hago
 
-Trabajo en la intersección entre **Administración, procesos reales y tecnología**.
+Mi perfil combina **Administración y operaciones reales** con desarrollo de software.
 
-- **GovTech / Digital Twins** — territorio, planeamiento, datos, trazabilidad y escenarios.
-- **IA aplicada / Automatización** — agentes, integraciones y reducción de tareas repetitivas.
-- **Software / IT** — aplicaciones, diagnóstico, backend, web y herramientas operativas.
+Trabajo sobre procesos que pueden entenderse, simplificarse o automatizarse y los convierto en herramientas que ayuden a **decidir, operar o verificar mejor**.
 
-## Proyectos destacados
+`proceso → datos → solución → verificación`
 
-### 🏙️ SIG Castelldefels v2 · Urban Digital Twin
+## Trabajo seleccionado
 
-Análisis parcelario, planeamiento, evidencia y escenarios urbanos 2D/3D.
+### 🏙️ SIG Castelldefels · Urban Digital Twin
+De una parcela y sus fuentes territoriales a evidencia, condicionantes y escenarios urbanos 2D/3D, manteniendo separadas las fuentes verificadas de las estimaciones.
 
-**MapLibre GL JS · CesiumJS · FastAPI · PostgreSQL/PostGIS · PMTiles · PWA**
+**MapLibre GL JS · CesiumJS · FastAPI · PostgreSQL/PostGIS · PMTiles**
 
-[Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
+[Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/truinio/sig-castelldefels-pro-portfolio)
 
 ### 🖥️ Win11 Performance Control Center
+Herramienta local de diagnóstico y mantenimiento controlado de Windows 11, diseñada alrededor de lectura, acción protegida, verificación y recovery.
 
-Diagnóstico y mantenimiento controlado de Windows 11 con separación entre lectura, acción protegida y recovery.
+**C# · .NET · WPF · WebView2 · TypeScript · Windows APIs**
 
-**C# · .NET 10 · WPF · WebView2 · TypeScript · Windows APIs · WMI · Event Log · Registry**
-
-[Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repo](https://github.com/truquinio/win11-performance-control-center)
+[Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repositorio](https://github.com/truinio/win11-performance-control-center)
 
 ### 🛠️ Home Repair
+Aplicación web de servicios domésticos con clientes, profesionales, solicitudes, roles y administración.
 
-Marketplace web con roles, solicitudes, perfiles y gestión administrativa.
+**Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · MySQL**
 
-**Java 17 · Spring Boot · Spring Security · Spring MVC · Spring Data JPA · Hibernate · MySQL · Thymeleaf · Bootstrap · Maven**
+[Demo](https://truquinio.github.io/home-repair/) · [Repositorio](https://github.com/truinio/home-repair)
 
-[Demo](https://truquinio.github.io/home-repair/) · [Repo](https://github.com/truquinio/home-repair)
+### 🗺️ SIG Castelldefels · Actividades económicas
+Visor reproducible de establecimientos observados mediante fuentes abiertas, con conciliación de datos, histórico, PWA y contexto territorial.
 
-### 🗺️ SIG Castelldefels
+**Leaflet · MapLibre GL JS · OpenStreetMap · Overture Maps · PostGIS · GeoJSON**
 
-Visor territorial reproducible de establecimientos económicos con fuentes abiertas y PWA.
+[Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repositorio](https://github.com/trauquinio/sig-castelldefels)
 
-**Leaflet · MapLibre GL JS · OpenStreetMap · Overpass API · Overture Maps · Panoramax · PostgreSQL/PostGIS · GeoJSON · JavaScript**
-
-[Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repo](https://github.com/truquinio/sig-castelldefels)
-
-### 📧 Asistente automatizado de Emails con IA
-
-Clasificación y redacción asistida de correo con backend Python y demo independiente.
-
-**Python · OpenAI API · IMAP · Pydantic 2 · pydantic-settings · pytest · HTML/CSS/JavaScript**
-
-[Demo](https://truquinio.github.io/Asistente-automatizado-de-Emails-con-IA/) · [Repo](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA)
+**Otros proyectos públicos:** [Asistente de Emails con IA](https://github.com/trauquinio/Asistente-automatizado-de-Emails-con-IA) · [Mini Diccionario / Wiktionary](https://github.com/trauquinio/clonWiki)
 
 > Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
 
-## Tecnologías
+## Stack
 
-La lista resume tecnologías **usadas o documentadas en mis repositorios**; no implica el mismo nivel de profundidad en todas.
+**Trabajo habitual:** C# / .NET · Python / FastAPI · JavaScript / TypeScript · Java / Spring · PostgreSQL / PostGIS · MapLibre / Cesium / Leaflet · Playwright · GitHub Actions
 
 <details>
-<summary><strong>Ver stack completo</strong></summary>
+<summary><strong>Ver tecnologías usadas y documentadas en mis repositorios</strong></summary>
 
 <br>
 
@@ -79,7 +69,7 @@ La lista resume tecnologías **usadas o documentadas en mis repositorios**; no i
 C# · Python · Java · JavaScript · TypeScript · PHP · SQL · HTML5 · CSS3 · PowerShell · Bash · PSeInt
 
 **Backend, desktop y aplicaciones**  
-.NET 10 · WPF · WebView2 · FastAPI · Pydantic 2 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Hibernate · JDBC · JPA · Thymeleaf · React · Node.js
+.NET · WPF · WebView2 · FastAPI · Pydantic · pydantic-settings · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Hibernate · JDBC · JPA · Thymeleaf · Node.js · React
 
 **Web y UX**  
 Bootstrap · jQuery · AJAX · PWA · Service Workers · localStorage · responsive / mobile-first · accesibilidad web
@@ -94,25 +84,29 @@ MapLibre GL JS · CesiumJS · Leaflet · OpenStreetMap · Overpass API · Overtu
 OpenAI API · Gemini · Groq · Ollama · agentes / tool calling · structured output · Playwright · Telegram Bot · Gmail · Google Calendar · Fathom · Microsoft MarkItDown · pdf-parse
 
 **Windows y sistemas**  
-Windows 11 · Windows APIs · WMI · Event Log · Registry · UAC · EcoQoS · PowerShell · WebView2
+Windows 11 · Windows APIs · WMI · Event Log · Registry · UAC · EcoQoS · PowerShell
 
 **Android / mobile engineering**  
-Android 15 · LineageOS 22.2 · AOSP · CarrierConfig · IMS / VoLTE · Android Platform 36 · Cell Broadcast / ES-Alert
+Android 15 · LineageOS · AOSP · CarrierConfig · IMS / VoLTE · Cell Broadcast / ES-Alert
 
 **Build, testing y entrega**  
-Maven · npm · pytest · xUnit · Git · GitHub · GitHub Actions · GitHub Pages · Render · PM2 · CI/CD · UI smoke tests
-
-**APIs y servicios utilizados en proyectos**  
-Wiktionary REST API · IMAP · OpenAI Chat Completions · OSM/Overpass · Overture · Panoramax · servicios cartográficos y territoriales públicos
+Git · GitHub · npm · Maven · pytest · xUnit · GitHub Actions · GitHub Pages · Render · PM2 · CI/CD · UI smoke tests
 
 </details>
 
+## Cómo trabajo
+
+- **Utilidad antes que espectáculo.**
+- **Datos verificados separados de estimaciones y supuestos.**
+- **Automatización con controles, trazabilidad y recuperación.**
+- **Documentación que explique lo que el proyecto hace realmente, no lo que podría hacer.**
+
 ## Contacto
 
-Me interesan proyectos de **transformación digital, automatización, software, IA aplicada, GovTech y Digital Twins**.
+Me interesan proyectos donde se crucen **transformación digital, automatización, software, IA aplicada, GovTech y Digital Twins**.
 
 [LinkedIn · Federico Trucco](https://www.linkedin.com/in/federico-trucco/)
 
 ---
 
-**by [truquinio](https://github.com/truquinio)**
+<sub>by <a href="https://github.com/trauquinio">truquinio</a></sub>
