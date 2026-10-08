@@ -29,30 +29,30 @@ De una parcela y sus fuentes territoriales a evidencia, condicionantes y escenar
 
 **MapLibre GL JS · CesiumJS · FastAPI · PostgreSQL/PostGIS · PMTiles**
 
-[Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/truinio/sig-castelldefels-pro-portfolio)
+[Demo](https://sig-castelldefels-twin.onrender.com/) · [Showcase](https://github.com/truquinio/sig-castelldefels-pro-portfolio)
 
 ### 🖥️ Win11 Performance Control Center
 Herramienta local de diagnóstico y mantenimiento controlado de Windows 11, diseñada alrededor de lectura, acción protegida, verificación y recovery.
 
 **C# · .NET · WPF · WebView2 · TypeScript · Windows APIs**
 
-[Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repositorio](https://github.com/truinio/win11-performance-control-center)
+[Demo](https://truquinio.github.io/win11-performance-control-center/) · [Repositorio](https://github.com/truquinio/win11-performance-control-center)
 
 ### 🛠️ Home Repair
 Aplicación web de servicios domésticos con clientes, profesionales, solicitudes, roles y administración.
 
 **Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · MySQL**
 
-[Demo](https://truquinio.github.io/home-repair/) · [Repositorio](https://github.com/truinio/home-repair)
+[Demo](https://truquinio.github.io/home-repair/) · [Repositorio](https://github.com/truquinio/home-repair)
 
 ### 🗺️ SIG Castelldefels · Actividades económicas
 Visor reproducible de establecimientos observados mediante fuentes abiertas, con conciliación de datos, histórico, PWA y contexto territorial.
 
 **Leaflet · MapLibre GL JS · OpenStreetMap · Overture Maps · PostGIS · GeoJSON**
 
-[Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repositorio](https://github.com/trauquinio/sig-castelldefels)
+[Demo](https://truquinio.github.io/sig-castelldefels/web/index.html) · [Repositorio](https://github.com/truquinio/sig-castelldefels)
 
-**Otros proyectos públicos:** [Asistente de Emails con IA](https://github.com/trauquinio/Asistente-automatizado-de-Emails-con-IA) · [Mini Diccionario / Wiktionary](https://github.com/trauquinio/clonWiki)
+**Otros proyectos públicos:** [Asistente de Emails con IA](https://github.com/truquinio/Asistente-automatizado-de-Emails-con-IA) · [Mini Diccionario / Wiktionary](https://github.com/truquinio/clonWiki)
 
 > Los proyectos territoriales son independientes y no representan sistemas oficiales del Ayuntamiento de Castelldefels.
 
@@ -109,4 +109,4 @@ Me interesan proyectos donde se crucen **transformación digital, automatizació
 
 ---
 
-<sub>by <a href="https://github.com/trauquinio">truquinio</a></sub>
+<sub>by <a href="https://github.com/truquinio">truquinio</a></sub>
